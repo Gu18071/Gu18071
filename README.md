@@ -1,4 +1,4 @@
-## Oi, eu sou o Gustavo Cianci 
+## Oi, eu sou o Gustavo Cianci!
 
 ### Skills achieved:
 <p 
