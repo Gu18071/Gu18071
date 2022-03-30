@@ -29,8 +29,8 @@
 ##
 
 ### What i´m earning nowadays:
-<p 
-	<img height="20" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<p>
+<img height="20" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </p>
 
 ##
