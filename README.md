@@ -34,3 +34,15 @@
   <a href="https://www.linkedin.com/in/gustavo-cianci-9413b8199" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+##
+
+<details>
+	<summary> <b>Github Statistics</b> </summary>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yucianci&show_icons=true&theme=dracula"> 
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yucianci&layout=compact&theme=dracula"> 
+</p>
+</details>
+
