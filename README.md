@@ -28,6 +28,13 @@
 
 ##
 
+### What i´m earning nowadays:
+<p 
+	<img height="20" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+</p>
+
+##
+
 ### Contact me:
 <div> 
   <a href="https://instagram.com/gucianci" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
