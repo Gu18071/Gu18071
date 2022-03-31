@@ -1,6 +1,8 @@
 # Oi, eu sou o Gustavo Cianci!
 <p>Sou estudante do 5º Período de Sistemas para Internet no UniAlfa.<p/>
 
+##
+
 ### Technologies achieved:
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
