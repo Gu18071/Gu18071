@@ -2,7 +2,7 @@
 
 ### EF Standard English Test (EF SET):
 <div> 
-  <a href="https://www.efset.org/cert/5LAWxi" target="_blank"><img src="https://img.shields.io/badge/ENGLISH.TEST-F5455C?style=for-the-badge&logo=rocket.chat&logoColor=white" target="_blank"></a>
+  <a href="https://www.efset.org/cert/5LAWxi" target="_blank"><img src="https://img.shields.io/badge/CERTIFICATE-F5455C?style=for-the-badge&logo=rocket.chat&logoColor=white" target="_blank"></a>
 </div>
 
 ##
