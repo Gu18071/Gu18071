@@ -1,5 +1,5 @@
-## Oi, eu sou o Gustavo Cianci!
-<p>Sou estudante do 5º Período de Sistemas para Internet no UniAlfa.<p/>
+# Oi, eu sou o Gustavo Cianci!
+
 
 ### Technologies achieved:
 <div style="display: inline_block">
