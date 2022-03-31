@@ -1,4 +1,4 @@
-# Hi, I´m Gustavo Cianci! 
+# Hi, I´m Gustavo Cianci! Front-end developer and Designer
 
 ### EF Standard English Test (EF SET):
 <div> 
