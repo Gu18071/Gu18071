@@ -1,4 +1,4 @@
-# Hi, I´m Gustavo Cianci! ###Front
+# Hi, I´m Gustavo Cianci! 
 
 ### EF Standard English Test (EF SET):
 <div> 
