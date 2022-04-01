@@ -36,6 +36,8 @@
 
 ### What i´m learning nowadays:
 <p>
+  
+<img height="20" src="https://img.shields.io/badge/-ATOMIC%20DESIGN-black"/>
 <img height="20" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img height="20" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 <img height="20" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/>
