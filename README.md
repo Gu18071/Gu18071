@@ -7,7 +7,7 @@
 
 ##
 
-<h2>Technologies</h2>
+<title>Technologies</title>
 
 ## Skills reached:
 <p>
