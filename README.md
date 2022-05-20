@@ -9,7 +9,7 @@
 
 <h1>Technologies</h1>
 
-## Skills reached:
+<h1>Skills reached:</h1>
 <p>
 <img height="20" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 <img height="20" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
