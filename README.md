@@ -7,7 +7,7 @@
 
 ##
 
-# Technologies
+Technologies
 
 ## Skills reached:
 <p>
