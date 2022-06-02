@@ -1,13 +1,13 @@
 # Hi, I´m Gustavo Cianci | Front-end developer💻 | Designer🎨
 
-### EF Standard English Test (EF SET):
+## EF Standard English Test (EF SET):
 <div> 
   <a href="https://www.efset.org/cert/5LAWxi" target="_blank"><img src="https://img.shields.io/badge/CERTIFICATE-F5455C?style=for-the-badge&logo=rocket.chat&logoColor=white" target="_blank"></a>
 </div>
 
 ##
 
-### Technologies
+## Technologies
 <div>
 <img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
