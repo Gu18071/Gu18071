@@ -38,6 +38,7 @@
 
 ### Design skills:
 <p>
+<img height="20" src="https://img.shields.io/badge/pixlr-%231A1918.svg?style=for-the-badge&logo=&logoColor=white"/>     
 <img height="20" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <img height="20" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 <img height="20" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>
